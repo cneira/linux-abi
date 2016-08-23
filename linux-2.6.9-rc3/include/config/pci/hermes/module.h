@@ -1,0 +1,1 @@
+#define CONFIG_PCI_HERMES_MODULE 1

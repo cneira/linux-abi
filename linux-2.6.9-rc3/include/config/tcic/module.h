@@ -1,0 +1,1 @@
+#define CONFIG_TCIC_MODULE 1

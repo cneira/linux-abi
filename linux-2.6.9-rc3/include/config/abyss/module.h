@@ -1,0 +1,1 @@
+#define CONFIG_ABYSS_MODULE 1

@@ -1,0 +1,1 @@
+#define CONFIG_3C359_MODULE 1

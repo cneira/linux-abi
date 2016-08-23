@@ -1,0 +1,1 @@
+#define CONFIG_IBMOL_MODULE 1

@@ -1,0 +1,1 @@
+#define CONFIG_HW_RANDOM_MODULE 1

@@ -1,0 +1,1 @@
+#define CONFIG_APM_CPU_IDLE 1

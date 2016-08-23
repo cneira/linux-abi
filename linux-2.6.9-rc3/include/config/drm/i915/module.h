@@ -1,0 +1,1 @@
+#define CONFIG_DRM_I915_MODULE 1

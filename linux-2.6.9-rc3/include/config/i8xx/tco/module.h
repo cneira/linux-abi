@@ -1,0 +1,1 @@
+#define CONFIG_I8XX_TCO_MODULE 1

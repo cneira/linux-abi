@@ -1,0 +1,1 @@
+#define CONFIG_SMCTR_MODULE 1

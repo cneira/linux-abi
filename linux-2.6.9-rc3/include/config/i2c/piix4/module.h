@@ -1,0 +1,1 @@
+#define CONFIG_I2C_PIIX4_MODULE 1

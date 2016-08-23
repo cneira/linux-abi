@@ -1,0 +1,1 @@
+#define CONFIG_USB_TEST_MODULE 1

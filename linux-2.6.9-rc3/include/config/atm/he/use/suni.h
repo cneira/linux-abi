@@ -1,0 +1,1 @@
+#undef CONFIG_ATM_HE_USE_SUNI

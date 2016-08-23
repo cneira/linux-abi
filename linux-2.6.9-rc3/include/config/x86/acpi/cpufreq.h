@@ -1,0 +1,1 @@
+#define CONFIG_X86_ACPI_CPUFREQ 1

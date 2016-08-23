@@ -1,0 +1,1 @@
+#define CONFIG_LOGITECH_FF 1

@@ -1,0 +1,1 @@
+#define CONFIG_I2C_SIS630_MODULE 1

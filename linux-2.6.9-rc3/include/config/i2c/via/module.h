@@ -1,0 +1,1 @@
+#define CONFIG_I2C_VIA_MODULE 1

@@ -1,0 +1,1 @@
+#define CONFIG_MD_RAID6_MODULE 1

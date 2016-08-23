@@ -1,0 +1,1 @@
+#define CONFIG_ATM_HE_MODULE 1

@@ -1,0 +1,1 @@
+#define CONFIG_DE2104X_MODULE 1

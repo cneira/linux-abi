@@ -1,0 +1,1 @@
+#define CONFIG_TMD_HERMES_MODULE 1

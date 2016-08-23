@@ -1,0 +1,1 @@
+#define CONFIG_USB_XPAD_MODULE 1

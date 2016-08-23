@@ -1,0 +1,1 @@
+#define CONFIG_USB_WACOM_MODULE 1

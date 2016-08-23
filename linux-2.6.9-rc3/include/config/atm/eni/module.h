@@ -1,0 +1,1 @@
+#define CONFIG_ATM_ENI_MODULE 1

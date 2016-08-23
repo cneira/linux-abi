@@ -1,0 +1,1 @@
+#define CONFIG_BT_HCIUSB_MODULE 1

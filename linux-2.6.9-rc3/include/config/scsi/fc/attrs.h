@@ -1,0 +1,1 @@
+#define CONFIG_SCSI_FC_ATTRS 1

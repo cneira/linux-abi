@@ -1,0 +1,1 @@
+#define CONFIG_I2C_SIS96X_MODULE 1

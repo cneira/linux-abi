@@ -1,0 +1,1 @@
+#define CONFIG_AMD8111E_NAPI 1

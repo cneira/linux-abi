@@ -1,0 +1,1 @@
+#define CONFIG_ABI_UW7 1

@@ -1,0 +1,1 @@
+#define CONFIG_WAFER_WDT_MODULE 1

@@ -1,0 +1,1 @@
+#define CONFIG_WAVELAN_MODULE 1

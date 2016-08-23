@@ -1,0 +1,1 @@
+#define CONFIG_PROTEON_MODULE 1

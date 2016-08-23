@@ -1,0 +1,1 @@
+#define CONFIG_SC520_WDT_MODULE 1

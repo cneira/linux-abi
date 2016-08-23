@@ -1,0 +1,1 @@
+#define CONFIG_FB_KYRO_MODULE 1

@@ -1,0 +1,1 @@
+#define CONFIG_CPU5_WDT_MODULE 1

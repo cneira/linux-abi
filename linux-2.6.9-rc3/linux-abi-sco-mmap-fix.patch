@@ -1,0 +1,13 @@
+--- abi/sco/mmap.c.org	2005-08-06 10:39:03.000000000 -0500
++++ abi/sco/mmap.c	2005-08-06 10:39:19.000000000 -0500
+@@ -54,7 +54,7 @@
+ 
+ 	flags &= ~(MAP_EXECUTABLE | MAP_DENYWRITE);
+ 	down_write(&current->mm->mmap_sem);
+-	mapaddr = do_mmap(file, addr, len, prot, flags | MAP_FIXED, off);
++	mapaddr = do_mmap(file, addr, len, prot, flags, off);
+ 	up_write(&current->mm->mmap_sem);
+ 
+ 	fput(file);
+
+ 	  	 

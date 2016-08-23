@@ -1,0 +1,1 @@
+#undef CONFIG_FB_RIVA_I2C

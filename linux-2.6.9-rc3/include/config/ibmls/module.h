@@ -1,0 +1,1 @@
+#define CONFIG_IBMLS_MODULE 1

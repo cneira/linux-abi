@@ -1,0 +1,1 @@
+#define CONFIG_SC1200_WDT_MODULE 1

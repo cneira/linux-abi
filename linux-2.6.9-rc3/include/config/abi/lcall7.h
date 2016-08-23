@@ -1,0 +1,1 @@
+#define CONFIG_ABI_LCALL7 1

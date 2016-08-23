@@ -1,0 +1,1 @@
+#define CONFIG_I82365_MODULE 1

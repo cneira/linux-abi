@@ -1,0 +1,1 @@
+#define CONFIG_BLK_DEV_CS5530 1

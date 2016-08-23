@@ -1,0 +1,1 @@
+#define CONFIG_THRUSTMASTER_FF 1

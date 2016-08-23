@@ -1,0 +1,1 @@
+#define CONFIG_DEVPTS_FS_XATTR 1

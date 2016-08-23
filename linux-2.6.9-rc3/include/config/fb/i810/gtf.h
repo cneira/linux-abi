@@ -1,0 +1,1 @@
+#define CONFIG_FB_I810_GTF 1

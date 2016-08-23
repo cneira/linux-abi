@@ -1,0 +1,1 @@
+#define CONFIG_USB_KBTAB_MODULE 1

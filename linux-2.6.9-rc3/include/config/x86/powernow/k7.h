@@ -1,0 +1,1 @@
+#define CONFIG_X86_POWERNOW_K7 1

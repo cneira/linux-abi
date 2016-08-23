@@ -1,0 +1,1 @@
+#define CONFIG_ATM_LANAI_MODULE 1

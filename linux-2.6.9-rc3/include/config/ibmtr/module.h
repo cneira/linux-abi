@@ -1,0 +1,1 @@
+#define CONFIG_IBMTR_MODULE 1

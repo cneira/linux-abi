@@ -1,0 +1,1 @@
+#define CONFIG_PRISM54_MODULE 1
